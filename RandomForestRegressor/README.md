@@ -5,6 +5,7 @@ The Python script employs the scikit-learn library for machine learning, numpy f
 and matplotlib for data visualization.
 
 ## Screenshot
+![RandomForestRegressor](https://github.com/CharlesFabicki/Bitcoin.price.prediction.with.machine.learning/assets/103677730/2dab9c7d-f4bc-47e5-9e4b-fbbe35401270)
 
 ## Dependencies
 - pandas
