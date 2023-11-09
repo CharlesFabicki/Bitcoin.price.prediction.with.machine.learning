@@ -4,6 +4,7 @@ This project predicts Bitcoin prices using a linear regression model based on hi
 It includes a Python script that uses the scikit-learn library for machine learning and matplotlib for data visualization.
 
 ## Screenshot
+![LinearRegression](https://github.com/CharlesFabicki/Bitcoin.price.prediction.with.machine.learning/assets/103677730/5cbd5f1b-ff6f-42af-8bef-4a5be8af0ed5)
 
 ## Dependencies
 - pandas
